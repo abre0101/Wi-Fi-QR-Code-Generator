@@ -14,7 +14,7 @@ Generate scannable QR codes for Wi-Fi networks. Works completely offline once de
 ## Installation
 
 ```bash
-py -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ py -m pip install -r requirements.txt
 Run the script:
 
 ```bash
-py wifi_qr_generator.py
+python wifi_qr_generator.py
 ```
 
 Follow the prompts:
