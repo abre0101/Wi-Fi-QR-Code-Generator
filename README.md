@@ -39,8 +39,8 @@ The QR code will be:
 ## Example
 
 ```
-Enter Wi-Fi name (SSID): MyHomeWiFi
-Enter Wi-Fi password: SecurePass123
+Enter Wi-Fi name (SSID): Mywifi
+Enter Wi-Fi password: password1234
 Security type (WPA/WEP/nopass) [WPA]: WPA
 Hidden network? (y/n) [n]: n
 ```
@@ -68,3 +68,4 @@ When scanned with a smartphone, it automatically prompts to connect to the netwo
 ## License
 
 MIT
+if you have any suggestion contact me❤
