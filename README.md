@@ -7,6 +7,7 @@ Generate scannable QR codes for Wi-Fi networks. Works completely offline once de
 - 📱 Generate scannable Wi-Fi QR codes
 - 🖼️ Save as PNG image
 - 💻 Display in terminal
+- 💻 Easy to use
 - 🔒 Supports WPA, WEP, and open networks
 - 🚫 Works offline
 - 🎯 Simple and fast
